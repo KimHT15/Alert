@@ -13,6 +13,7 @@
 		F2D1D1A827270489008F9DD7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2D1D1A627270489008F9DD7 /* Main.storyboard */; };
 		F2D1D1AA2727048A008F9DD7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2D1D1A92727048A008F9DD7 /* Assets.xcassets */; };
 		F2D1D1AD2727048A008F9DD7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2D1D1AB2727048A008F9DD7 /* LaunchScreen.storyboard */; };
+		F2D1D1B527270784008F9DD7 /* Alertclass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2D1D1B427270784008F9DD7 /* Alertclass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2D1D1A92727048A008F9DD7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F2D1D1AC2727048A008F9DD7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F2D1D1AE2727048A008F9DD7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2D1D1B427270784008F9DD7 /* Alertclass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alertclass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F2D1D1A227270489008F9DD7 /* SceneDelegate.swift */,
 				F2D1D1A427270489008F9DD7 /* ViewController.swift */,
 				F2D1D1A627270489008F9DD7 /* Main.storyboard */,
+				F2D1D1B427270784008F9DD7 /* Alertclass.swift */,
 				F2D1D1A92727048A008F9DD7 /* Assets.xcassets */,
 				F2D1D1AB2727048A008F9DD7 /* LaunchScreen.storyboard */,
 				F2D1D1AE2727048A008F9DD7 /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F2D1D1A527270489008F9DD7 /* ViewController.swift in Sources */,
+				F2D1D1B527270784008F9DD7 /* Alertclass.swift in Sources */,
 				F2D1D1A127270489008F9DD7 /* AppDelegate.swift in Sources */,
 				F2D1D1A327270489008F9DD7 /* SceneDelegate.swift in Sources */,
 			);
